@@ -359,11 +359,6 @@ AI_SERVICE_API_KEY=
 
 ---
 
-## Dashboard
-
-![Dashboard](docs/images/dashboard.png)
-
----
 
 ## Import Repository
 
@@ -373,17 +368,10 @@ AI_SERVICE_API_KEY=
 
 ## Repository Overview
 
-![Repository Overview](docs/images/repo1.png)
-
 ![Repository Overview](docs/images/repo2.png)
 
 ---
 
-## Repository Statistics
-
-![Repository Statistics](docs/images/stats.png)
-
----
 
 ## Dependency Graph
 
